@@ -125,7 +125,7 @@ target_link_libraries(solver_app formatter_ex_lib)
 
 target_link_libraries(solver_app solver)
 ```
-Отредактирую файл /home/alina/lab3/solver_lib/solver.cpp, добавив ```#include <cmath>```, убрав ```std``` из строчек 15 и 16
+Отредактирую файл ```/home/alina/lab3/solver_lib/solver.cpp```, добавив ```#include <cmath>```, убрав ```std``` из строчек 15 и 16
 
 Создаю директорию сборки и перехожу в нее
 ```
